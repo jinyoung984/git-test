@@ -1,1 +1,2 @@
 3. create c.txt
+main에서 rebase작업 
